@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="fistName">Enter Your First Name</string>
+    <string name="lastName">Enter Your Last Name</string>
+    <string name="fullName">Your Full Name: </string>
+    <string name="doneButton">Done</string>
+</resources>
